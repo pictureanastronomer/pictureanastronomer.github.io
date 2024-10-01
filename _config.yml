@@ -173,6 +173,15 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  kickoffspeakers:
+    output: true
+    permalink: /kickoffspeakers/:path/
+  lecturespeakers:
+    output: true
+    permalink: /lecturespeakers/:path/
+  symposiumspeakers:
+    output: true
+    permalink: /symposiumspeakers/:path/
 
 announcements:
   enabled: true
