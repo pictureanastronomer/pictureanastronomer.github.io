@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Picture an Astronomer
+subtitle: University of Chicago Women's Board | Kavli Institute for Cosmological Physics
 ---
 
 Thanks to a generous grant from the University of Chicago Women’s Board, we are able to run a one-time series of events aimed at increasing representation for, and retention of, women in astrophysics. In partnership with the Kavli Institute for Cosmological Physics at the University of Chicago, programming will run from January - March 2025, with opportunities to participate/attend both in person and virtually, and recordings will made available after each event (linked here) to extend reach.

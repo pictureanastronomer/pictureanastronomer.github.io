@@ -3,7 +3,7 @@ layout: page
 title: Dame Jocelyn Bell Burnell
 img: assets/img/JBB.png
 importance: 3
-category: Panel
+category: Invited Speakers
 ---
 
 <div class="row">
