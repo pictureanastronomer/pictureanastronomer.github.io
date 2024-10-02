@@ -16,8 +16,9 @@ Details of our events, including registration and attendance information and rec
 - Prof. Andrey Kravtsov
 - Prof. Zosia Krusberg
 - Prof. Abby Vieregg
+- Prof. Irina Zhuravleva
 
 #### Local Organizing Committee
 TBD
 
-**Any questions? Contact Ava Polzin (apolzin at uchicago dot edu) and/or Galen Tsongas (gtsongas at uchicago dot edu).**
+**Any questions? Contact Ava Polzin (apolzin [at] uchicago.edu) and/or Galen Tsongas (gtsongas [at] uchicago.edu).**
