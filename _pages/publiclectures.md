@@ -22,7 +22,7 @@ These lectures are intended for a general audience and are suitable for all ages
 - Dame Jocelyn Bell Burnell -- February 19, 2025
 - Anna Frebel -- February 25, 2025
 
-See below for more information about each of the invited speakers and their talks (more to be added).
+See below for more information about each of the invited speakers and their talks.
 
 
 <!-- pages/projects.md -->
