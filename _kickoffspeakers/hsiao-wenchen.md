@@ -8,7 +8,7 @@ category: Invited Speakers
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Hsiao-Wen.png" title="example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Hsiao-Wen.png" title="Hsiao-Wen Chen" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <!-- <div class="caption">
