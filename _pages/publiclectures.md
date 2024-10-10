@@ -19,6 +19,8 @@ These lectures are intended for a general audience and are suitable for all ages
 *Registration information coming soon. Note that separate registration is required for each talk.*
 
 #### Schedule (more to be added)
+- Dara Normal -- February 3, 2025
+- Katie Mack -- date TBD
 - Dame Jocelyn Bell Burnell -- February 19, 2025
 - Anna Frebel -- February 25, 2025
 
