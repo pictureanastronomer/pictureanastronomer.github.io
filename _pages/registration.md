@@ -9,7 +9,7 @@ horizontal: false
 social: false
 ---
 
-**More egistration information to be added soon.** All events support both in-person and virtual attendance.
+**More registration information to be added soon.** All events support both in-person and virtual attendance.
 
 #### Important dates
 - Kick-off Event -- January 30, 2025 ([register here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"})
