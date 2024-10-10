@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Dara Norman
-img: assets/img/DaraNorman.jpg
+img: assets/img/DaraNorman2.jpeg
 importance: 1
 category: Invited Speakers
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DaraNorman.jpg" title="Dara Norman" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DaraNorman2.jpeg" title="Dara Norman" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
