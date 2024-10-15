@@ -19,7 +19,7 @@ The talks will be followed by a panel discussion. Other department members will 
 
 *Register [here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"} for in-person or virtual attendance.*
 
-See below for more information about each of the invited speakers and their talks (more to be added).
+See below for more information about each of the invited speakers and their talks.
 
 <!-- pages/projects.md -->
 <div class="projects">
