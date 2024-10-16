@@ -3,7 +3,7 @@ layout: page
 title: Malena Rice
 img: assets/img/malenarice.jpg
 importance: 22
-category: Invited Speakers
+category: 
 ---
 
 <div class="row">
