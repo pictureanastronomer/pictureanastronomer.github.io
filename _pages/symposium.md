@@ -17,7 +17,7 @@ In March 2025, we will host a scientific symposium including female astrophysics
 
 *Registration information coming soon.*
 
-See below for more information about each of the invited speakers and their talks.
+See below for more information about each of the invited speakers and their talks (more to be added).
 
 <!-- pages/projects.md -->
 <div class="projects">
