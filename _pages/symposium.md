@@ -6,7 +6,7 @@ permalink: /symposium/
 years: [2024]
 nav: true
 nav_order: 4
-display_categories: [Invited Speakers]
+display_categories: []
 horizontal: false
 social: false
 ---

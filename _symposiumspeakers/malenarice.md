@@ -3,7 +3,7 @@ layout: page
 title: Malena Rice
 img: assets/img/malenarice.jpg
 importance: 22
-category: 
+category: Invited Speakers
 ---
 
 <div class="row">
@@ -13,3 +13,5 @@ category:
 </div>
 
 [Prof. Malena Rice](http://www.astro.yale.edu/malenarice/){:target="_blank"} is an assistant professor in the Department of Astronomy at Yale University.
+
+Talk title: "Exoplanet Systems in 3D"
