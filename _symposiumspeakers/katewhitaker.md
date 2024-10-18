@@ -2,7 +2,7 @@
 layout: page
 title: Kate Whitaker
 img: assets/img/katewhitaker.jpeg
-importance: 5
+importance: 29
 category: Invited Speakers
 ---
 
