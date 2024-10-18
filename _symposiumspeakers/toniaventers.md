@@ -12,4 +12,4 @@ category: Invited Speakers
     </div>
 </div>
 
-[Dr. Tonia Venters](https://science.gsfc.nasa.gov/sci/bio/tonia.m.venters){:target="_blank"} is a research astrophysicist at the NASA Goddard Space Flight Center.
+[Dr. Tonia Venters](https://science.gsfc.nasa.gov/sci/bio/tonia.m.venters){:target="_blank"} is a Research Astrophysicist at the NASA Goddard Space Flight Center.

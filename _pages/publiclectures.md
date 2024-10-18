@@ -11,16 +11,16 @@ horizontal: false
 social: false
 ---
 
-For each of the four weeks in February, we are hosting a public talk featuring a prominent and inspiring woman in astrophysics. Each talk will be followed by a structured Q&A.
+Throughout February, we are hosting public talks featuring a prominent and inspiring woman in astrophysics. Each talk will be followed by a structured Q&A.
 
-These lectures are intended for a general audience and are suitable for all ages.
+These lectures are intended for a general audience.
 
 
 *Registration information coming soon. Note that separate registration is required for each talk.*
 
 #### Schedule
 - Dara Norman -- February 3, 2025
-- Katie Mack -- date TBD
+- Katie Mack -- February 7, 2025
 - Dame Jocelyn Bell Burnell -- February 19, 2025
 - Anna Frebel -- February 25, 2025
 
