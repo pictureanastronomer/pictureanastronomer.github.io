@@ -17,7 +17,7 @@ To set the tone for the rest of the Picture an Astronomer programming and highli
 
 The talks will be followed by a panel discussion. Other department members will also be available to answer questions about astronomy in general, and there will be ample opportunity to engage with more junior women in the department (PhD students and postdoctoral fellows) to learn more about their work.
 
-*Register [here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"} for in-person or virtual attendance.*
+*Register [**here**](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"} for in-person or virtual attendance.*
 
 See below for more information about each of the invited speakers and their talks.
 
