@@ -13,3 +13,5 @@ category: Invited Speakers
 </div>
 
 [Prof. Allison Strom](https://strom.physics.northwestern.edu){:target="_blank"} is an assistant professor in the Center for Interdisciplinary Exploration and Research in Astrophysics and the Department of Physics & Astronomy at Northwestern University.
+
+Talk title: "Galaxy Chemistry and You"
