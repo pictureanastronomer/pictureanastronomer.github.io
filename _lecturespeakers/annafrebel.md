@@ -2,7 +2,7 @@
 layout: page
 title: Anna Frebel
 img: assets/img/AnnaFrebel.png
-importance: 4
+importance: 5
 category: Invited Speakers
 ---
 
@@ -12,4 +12,4 @@ category: Invited Speakers
     </div>
 </div>
 
-[Prof. Anna Frebel](https://www.annafrebel.com){:target="_blank"} is a professor in the Department of Physics and the division head of astrophysics at the Massachusetts Institute of Technology.
+[Prof. Anna Frebel](https://www.annafrebel.com){:target="_blank"} is a professor in the Department of Physics and the division head of astrophysics at the Massachusetts Institute of Technology. She is the author of the book, *Searching for the Oldest Stars: Ancient Relicts from the Early Universe*.

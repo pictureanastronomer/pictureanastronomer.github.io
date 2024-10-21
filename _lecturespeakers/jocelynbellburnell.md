@@ -2,7 +2,7 @@
 layout: page
 title: Dame Jocelyn Bell Burnell
 img: assets/img/JBB.jpg
-importance: 3
+importance: 4
 category: Invited Speakers
 ---
 

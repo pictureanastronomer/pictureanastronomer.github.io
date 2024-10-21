@@ -12,4 +12,4 @@ category: Invited Speakers
     </div>
 </div>
 
-[Dr. Katie Mack](https://www.astrokatie.com){:target="_blank"} is the Hawking Chair in Cosmology and Science Communication at the Perimeter Institute for Theoretical Physics.
+[Dr. Katie Mack](https://www.astrokatie.com){:target="_blank"} is the Hawking Chair in Cosmology and Science Communication at the Perimeter Institute for Theoretical Physics. She is the author of the book, *The End of Everything (Astrophysically Speaking)*.

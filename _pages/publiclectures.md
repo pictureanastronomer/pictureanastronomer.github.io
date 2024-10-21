@@ -21,6 +21,7 @@ These lectures are intended for a general audience.
 #### Schedule
 - Dara Norman -- February 3, 2025
 - Katie Mack -- February 7, 2025
+- Priya Natarajan -- February 13, 2025
 - Dame Jocelyn Bell Burnell -- February 19, 2025
 - Anna Frebel -- February 25, 2025
 
