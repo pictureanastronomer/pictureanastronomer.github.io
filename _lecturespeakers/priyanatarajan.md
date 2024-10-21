@@ -12,4 +12,4 @@ category: Invited Speakers
     </div>
 </div>
 
-[Prof. Priya Natarajan](https://campuspress.yale.edu/priya/){:target="_blank"} is the Joseph S. and Sophia S. Fruton Professor in, and the chair of, the Department of Astronomy at Yale University. She is the author of the book, *Mapping the Heavens: The Radical Scientific Ideas That Reveal the Cosmos*.
+[Prof. Priya Natarajan](https://campuspress.yale.edu/priya/){:target="_blank"} is the Joseph S. and Sophia S. Fruton Professor in, and the chair of, the Department of Astronomy at Yale University. She is the author of the book, *Mapping the Heavens: The Radical Scientific Ideas That Reveal the Cosmos*. She is one of *Time Magazine*'s 100 most influential people of 2024.
