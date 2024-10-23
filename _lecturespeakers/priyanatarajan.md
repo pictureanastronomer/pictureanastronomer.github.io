@@ -3,7 +3,7 @@ layout: page
 title: Priya Natarajan
 img: assets/img/PriyamvadaNatarajan.jpeg
 importance: 3
-category: Invited Speakers
+category: 
 ---
 
 <div class="row">

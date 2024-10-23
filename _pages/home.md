@@ -23,7 +23,7 @@ TBD
 
 **Any questions? Contact Ava Polzin (apolzin [at] uchicago.edu) and/or Galen Tsongas (gtsongas [at] uchicago.edu).**
 
-![calendar](/assets/img/pictureanastronomer_calendar.png){:width="92%"}
+![calendar](/assets/img/pictureanastronomer_calendar_redacted.png){:width="92%"}
 
 
 
