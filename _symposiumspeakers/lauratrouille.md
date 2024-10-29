@@ -13,3 +13,5 @@ category: Invited Speakers
 </div>
 
 [Dr. Laura Trouille](https://www.adlerplanetarium.org/explore/about-us/who-we-are/){:target="_blank"} is the Principle Investigator of Zooniverse and Vice President of Science Engagement & Visualization at the Adler Planetarium.
+
+Title: "Expanding Horizons: Non-Academic Careers and Inclusive Engagement Strategies for Retaining Women in Astronomy"
