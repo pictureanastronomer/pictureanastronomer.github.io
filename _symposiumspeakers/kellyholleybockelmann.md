@@ -2,7 +2,7 @@
 layout: page
 title: Kelly Holley-Bockelmann
 img: assets/img/kelly-holley-bockelmann.jpg
-importance: 25
+importance: 13
 category: Invited Speakers
 ---
 
