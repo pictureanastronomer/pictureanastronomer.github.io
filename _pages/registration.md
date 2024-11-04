@@ -19,3 +19,5 @@ social: false
 - Picture an Astronomer: Dame Jocelyn Bell Burnell -- February 19, 2025 ([registration coming soon](){:target="_blank"})
 - Picture an Astronomer: Anna Frebel -- February 25, 2025 ([registration coming soon](){:target="_blank"})
 - Symposium -- March 4 - 6, 2025 ([registration coming soon](){:target="_blank"})
+
+##### Logistics for In-person Attendance

@@ -12,4 +12,4 @@ category: Invited Speakers
     </div>
 </div>
 
-[Prof. Renée Hložek](https://www.dunlap.utoronto.ca/~hlozek/){:target="_blank"} is an associate professor at the Dunlap Institute and the David A. Dunlap Department for Astronomy and Astrophysics at the University of Chicago.
+[Prof. Renée Hložek](https://www.dunlap.utoronto.ca/~hlozek/){:target="_blank"} is an associate professor at the Dunlap Institute and the David A. Dunlap Department for Astronomy and Astrophysics at the University of Toronto.
