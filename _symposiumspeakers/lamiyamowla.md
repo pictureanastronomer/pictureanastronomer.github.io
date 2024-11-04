@@ -2,7 +2,7 @@
 layout: page
 title: Lamiya Mowla
 img: assets/img/lamiyamowla.jpg
-importance: 12
+importance: 19
 category: Invited Speakers
 ---
 
