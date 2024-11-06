@@ -14,4 +14,4 @@ category: Invited Speakers
 
 [Prof. Lamiya Mowla](https://www.lamiyamowla.com){:target="_blank"} is an assistant professor in the Department of Physics and Astronomy at Wellesley College.
 
-Title: "The Sparkling Universe: Tracing the Co-Evolution of Galaxies and Star Clusters to Cosmic Dawn"
+Talk title: "The Sparkling Universe: Tracing the Co-Evolution of Galaxies and Star Clusters to Cosmic Dawn"
