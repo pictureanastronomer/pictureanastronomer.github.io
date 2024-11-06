@@ -77,9 +77,3 @@ There are just three hotels in Hyde Park:
 Each one is equivalent in price (around $180-250 a night depending on time of year).
 
 There are also myriad hotels downtown and in the South Loop for those interested in other options. Note that South Loop hotels will generally be 30-45 minutes away from the University of Chicago.
-
-
-
-{% details Expand for  %}
-
-{% enddetails %}
