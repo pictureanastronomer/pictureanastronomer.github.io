@@ -2,7 +2,7 @@
 layout: page
 title: Kim-Vy Tran
 img: assets/img/kim-vytran.jpg
-importance: 29
+importance: 24
 category: Invited Speakers
 ---
 
