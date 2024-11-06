@@ -13,11 +13,11 @@ social: false
 
 #### Important dates
 - Kick-off Event -- January 30, 2025 ([register here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"})
-- Picture an Astronomer: Dara Norman -- February 3, 2025 ([registration coming soon](){:target="_blank"})
-- Picture an Astronomer: Katie Mack -- February 7, 2025 ([registration coming soon](){:target="_blank"})
+- Picture an Astronomer: Dara Norman -- February 3, 2025 ([register here](https://forms.gle/FuAxS2zSCpuX4Seb6){:target="_blank"})
+- Picture an Astronomer: Katie Mack -- February 7, 2025 ([register here](https://forms.gle/4KhPRXvUTpyvM6Gm9){:target="_blank"})
 - SAVE THE DATE -- February 13, 2025 ([registration coming soon](){:target="_blank"})
-- Picture an Astronomer: Dame Jocelyn Bell Burnell -- February 19, 2025 ([registration coming soon](){:target="_blank"})
-- Picture an Astronomer: Anna Frebel -- February 25, 2025 ([registration coming soon](){:target="_blank"})
+- Picture an Astronomer: Dame Jocelyn Bell Burnell -- February 19, 2025 ([registration for virtual attendance](https://forms.gle/ez8ajBBiGjummteL6){:target="_blank"}/[registration for in-person attendance coming soon](){:target="_blank"})
+- Picture an Astronomer: Anna Frebel -- February 25, 2025 ([register here](https://forms.gle/1t9N3GGL31TEDykL6){:target="_blank"})
 - Symposium -- March 4 - 6, 2025 ([registration here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"})
 
 ##### Logistics for In-person Attendance
