@@ -32,7 +32,7 @@ The Metra Electric and South Shore commuter rail train lines run directly to Chi
 
 The Chicago Transit Authority offers public transit options via the 'L' and buses -- details are available on the [CTA website](https://www.transitchicago.com/travel-information/){:target="_blank"}. CTA passes can be purchased at stations or in the Ventra app. Recently, the CTA has added support for contactless payment.
 
-The University of Chicago is \~20-30 minutes south of the Loop by car depending on traffic.
+The University of Chicago is \~20 minutes south of the Loop by car depending on traffic.
 
 If you are flying in, as for the symposium, Hyde Park is \~45 minutes from O'Hare International Airport (ORD) or \~25 minutes from Midway International Airport (MDW) driving. There is a direct Blue Line 'L' train from ORD to downtown Chicago, and the Orange Line goes from Midway to the Loop. Details are available on the [CTA website](https://www.transitchicago.com/airports/){:target="_blank"}.
 

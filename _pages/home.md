@@ -19,7 +19,10 @@ Details of our events, including registration and attendance information and rec
 - Prof. Irina Zhuravleva
 
 #### Local Organizing Committee
-TBD
+- Ryn Grutkowski
+- Scott Mackey
+- Francisco Rodriguez Montero
+- Chin Yi Tan
 
 **Any questions? Contact Ava Polzin (apolzin [at] uchicago.edu) and/or Galen Tsongas (gtsongas [at] uchicago.edu).**
 
