@@ -12,4 +12,4 @@ category: Invited Speakers
     </div>
 </div>
 
-[Dr. Kim-Vy Tranl](https://www.kimvytran.org){:target="_blank"} is the Associate Director for Internal Relations at the Harvard-Smithsonian Center for Astrophysics.
+[Dr. Kim-Vy Tran](https://www.kimvytran.org){:target="_blank"} is the Associate Director for Internal Relations at the Harvard-Smithsonian Center for Astrophysics.
