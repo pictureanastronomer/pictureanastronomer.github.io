@@ -15,6 +15,8 @@ social: false
 
 In March 2025, we will host a scientific symposium including female astrophysicists from diverse institutions and backgrounds. We intend this to be an opportunity to engage in a larger discussion about the state of the field for women around the globe and will spend a portion of the symposium in “hack day” mode, looking to discuss solutions to universal and near-universal challenges to the retention of female astrophysicists. An extended goal is to codify these discussions in public white papers. This symposium alone will not fix the leaky pipeline, but we hope that crowd-sourcing best practices for increasing retention will inspire the implementation of even small, but significant changes that lead to inclusion. Simultaneously, we hope that promoting these sorts of discussions will lead to the potential for larger changes with expanded engagement.
 
+We encourage professional astronomers/astrophysicists to participate, not just women.
+
 *Register [here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"} by January 30.*
 
 See below for more information about each of the invited speakers and their talks (more to be added).

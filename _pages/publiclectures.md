@@ -16,7 +16,7 @@ Throughout February, we are hosting public talks featuring a prominent and inspi
 These lectures are intended for a general audience.
 
 
-*Registration information coming soon. Note that separate registration is required for each talk.*
+*Note that separate registration is required for each talk.*
 
 #### Schedule
 - Dara Norman -- February 3, 2025 -- [register here](https://forms.gle/FuAxS2zSCpuX4Seb6){:target="_blank"}
