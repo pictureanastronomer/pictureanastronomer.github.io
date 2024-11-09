@@ -11,15 +11,16 @@ Details of our events, including registration and attendance information and rec
 
 #### Scientific Organizing Committee
 - Ava Polzin
-- Galen Tsongas
-- Prof. Hsiao-Wen Chen
-- Prof. Andrey Kravtsov
-- Prof. Zosia Krusberg
-- Prof. Abby Vieregg
-- Prof. Irina Zhuravleva
+- Hsiao-Wen Chen
+- Andrey Kravtsov
+- Zosia Krusberg
+- Abby Vieregg
+- Irina Zhuravleva
 
 #### Local Organizing Committee
+- Galen Tsongas
 - Ryn Grutkowski
+- Anna Kofmann
 - Scott Mackey
 - Francisco Rodriguez Montero
 - Chin Yi Tan
