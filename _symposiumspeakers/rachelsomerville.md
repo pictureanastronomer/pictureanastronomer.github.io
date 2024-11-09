@@ -2,7 +2,7 @@
 layout: page
 title: Rachel Somerville
 img: assets/img/rachelsomerville.jpeg
-importance: 26
+importance: 22
 category: Invited Speakers
 ---
 
