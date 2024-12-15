@@ -2,7 +2,7 @@
 layout: page
 title: Laura Newburgh
 img: assets/img/lauranewburgh.jpg
-importance: 19
+importance: 21
 category: Invited Speakers
 ---
 
