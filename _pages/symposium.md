@@ -17,7 +17,7 @@ In March 2025, we will host a scientific symposium including female astrophysici
 
 We encourage all professional astronomers/astrophysicists to participate, not just women.
 
-*Register [here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"} by January 30.*
+__*Register [here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"} by January 30.*__
 
 See below for more information about each of the invited speakers and their talks (more to be added).
 
