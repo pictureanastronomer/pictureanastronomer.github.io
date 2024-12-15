@@ -24,7 +24,7 @@ All events support both in-person and virtual attendance. Registration is **requ
 
 #### Logistics for In-person Attendance
 
-The University of Chicago is located in Chicago's South Side in the Hyde Park neighborhood. Most of the Picture an Astronomer events will be held at the William Eckhardt Research Center (5640 S. Ellis Ave.)
+The University of Chicago is located in Chicago's South Side in the Hyde Park neighborhood. Most of the Picture an Astronomer events will be held at the William Eckhardt Research Center (5640 S. Ellis Ave.).
 
 ##### Getting to Hyde Park
 
@@ -44,27 +44,27 @@ Hyde Park has lots of restaurants and bars. We list here a few options in the im
 **10 min walk from ERC:**
 - Quantum Café in ERC (5640 S. Ellis Ave.). This Vietnamese Café features the food of James Beard Foundation award winner Thai Dang.
 - Food trucks along S. Ellis Ave., around 5800 S. Ellis Ave.
-- Roux (1055 E. 55th St.): [https://rouxdiner.com/](https://rouxdiner.com/){:target="_blank"}
-- Nella Pizza e Pasta (Michelin Bib Gourmand, 1125 E. 55th St.): [https://nellachicago.com/](https://nellachicago.com/){:target="_blank"}
-- The Nile (1162 E. 55th St.): [https://www.nilehydepark.com/](https://www.nilehydepark.com/){:target="_blank"}
-- Saucy Porka (1164 E. 55th St.): [https://www.saucyporka.com/hyde-park](https://www.saucyporka.com/hyde-park){:target="_blank"}
-- Reynolds Club at 57th and University (5076 S. University Ave.) & Pret a Manger: [https://www.pret.com/en-US/shop-finder/l/chicago/5706-suniversity-ave/10619](https://www.pret.com/en-US/shop-finder/l/chicago/5706-suniversity-ave/10619){:target="_blank"} - Food court with variety of cuisines
-- Jimmy's Woodlawn Tap (1172 E. 55th St.): [https://www.yelp.com/biz/woodlawn-tap-chicago](https://www.yelp.com/biz/woodlawn-tap-chicago){:target="_blank"}
+- [Roux](https://rouxdiner.com/){:target="_blank"} (1055 E. 55th St.)
+- [Nella Pizza e Pasta](https://nellachicago.com/){:target="_blank"} (Michelin Bib Gourmand, 1125 E. 55th St.)
+- [The Nile](https://www.nilehydepark.com/){:target="_blank"} (1162 E. 55th St.)
+- [Saucy Porka](https://www.saucyporka.com/hyde-park){:target="_blank"} (1164 E. 55th St.)
+- Reynolds Club at 57th and University (5076 S. University Ave.) & [Pret a Manger](https://www.pret.com/en-US/shop-finder/l/chicago/5706-suniversity-ave/10619){:target="_blank"} - Food court with variety of cuisines
+- [Jimmy's Woodlawn Tap](https://www.yelp.com/biz/woodlawn-tap-chicago){:target="_blank"} (1172 E. 55th St.)
 
 **10-15 min walk from ERC:**
-- Medici (1327 E. 57th St.): [https://www.medici57.com/](https://www.medici57.com/){:target="_blank"}
-- Noodles, Etc. (1333 E. 57th St.): [http://noodlesetc.com/](http://noodlesetc.com/){:target="_blank"}
-- Ascione Bistro (1500 E. 55th St.): [https://ascionebistro.com/](https://ascionebistro.com/){:target="_blank"}
-- Plein Air (5751 S. Woodlawn Ave.): [http://www.pleinaircafe.co](http://www.pleinaircafe.co){:target="_blank"}
-- Cedars Mediterannean (1206 E. 53rd St.): [https://www.eatcedars.com](https://www.eatcedars.com){:target="_blank"}
+- [Medici](https://www.medici57.com/){:target="_blank"} (1327 E. 57th St.)
+- [Noodles, Etc.](http://noodlesetc.com/){:target="_blank"} (1333 E. 57th St.)
+- [Ascione Bistro](https://ascionebistro.com/){:target="_blank"} (1500 E. 55th St.)
+- [Plein Air](http://www.pleinaircafe.co){:target="_blank"} (5751 S. Woodlawn Ave.)
+- [Cedars Mediterannean](https://www.eatcedars.com){:target="_blank"} (1206 E. 53rd St.)
 
 **Additional restaurants along 53rd St.:**
-- Virtue (Michelin Bib Gourmand, 1462 E. 53rd St.): [https://www.virtuerestaurant.com/](https://www.virtuerestaurant.com/){:target="_blank"}
-- Valois (1518 E. 53rd St.): [https://www.valoisrestaurant.com/](https://www.valoisrestaurant.com/){:target="_blank"}
-- Cafe 53 (1369 E. 53rd St.): [https://www.cafe-53.com/](https://www.cafe-53.com/){:target="_blank"}
-- Small Cheval (1307 E. 53rd St): [https://smallcheval.com](https://smallcheval.com){:target="-blank"} 
-- Rajun Cajun (1459 E. 53rd St.): [https://www.rajuncajunhp.com/](https://www.rajuncajunhp.com/){:target="_blank"} 
-- Shinju Sushi (1375 E. 53rd St.): [http://www.shinjusushichicago.com](http://www.shinjusushichicago.com){:target="_blank"}
+- [Virtue](https://www.virtuerestaurant.com/){:target="_blank"} (Michelin Bib Gourmand, 1462 E. 53rd St.)
+- [Valois](https://www.valoisrestaurant.com/){:target="_blank"} (1518 E. 53rd St.)
+- [Cafe 53](https://www.cafe-53.com/){:target="_blank"} (1369 E. 53rd St.)
+- [Small Cheval](https://smallcheval.com){:target="-blank"}  (1307 E. 53rd St.)
+- [Rajun Cajun](https://www.rajuncajunhp.com/){:target="_blank"}  (1459 E. 53rd St.)
+- [Shinju Sushi](http://www.shinjusushichicago.com){:target="_blank"} (1375 E. 53rd St.)
 
 
 ##### Staying in Hyde Park
@@ -74,6 +74,6 @@ There are just three hotels in Hyde Park:
 - The Study (1227 E. 60th St., Chicago, IL 60637)
 - The Hyatt (5225 S. Harper Ave., Chicago, IL 60615)
 
-Each one is equivalent in price (around $180-250 a night depending on time of year).
+Each one is equivalent in price (around $180-250/night depending on time of year).
 
 There are also myriad hotels downtown and in the South Loop for those interested in other options. Note that South Loop hotels will generally be 30-45 minutes away from the University of Chicago.
