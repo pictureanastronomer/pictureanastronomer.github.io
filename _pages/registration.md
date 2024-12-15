@@ -9,7 +9,7 @@ horizontal: false
 social: false
 ---
 
-**More registration information to be added soon.** All events support both in-person and virtual attendance.
+All events support both in-person and virtual attendance. Registration is **required**.
 
 #### Important dates
 - Kick-off Event -- January 30, 2025 ([register here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"})
@@ -18,7 +18,7 @@ social: false
 - SAVE THE DATE -- February 13, 2025 (registration coming soon)
 - Picture an Astronomer: Dame Jocelyn Bell Burnell -- February 19, 2025 (registration for [virtual](https://forms.gle/ez8ajBBiGjummteL6){:target="_blank"}/in-person attendance)
 - Picture an Astronomer: Anna Frebel -- February 25, 2025 ([register here](https://forms.gle/1t9N3GGL31TEDykL6){:target="_blank"})
-- Symposium -- March 4 - 6, 2025 ([registration here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"})
+- Symposium -- March 4 - 6, 2025 ([register here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"})
 
 
 
