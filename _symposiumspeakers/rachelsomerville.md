@@ -13,3 +13,5 @@ category: Invited Speakers
 </div>
 
 [Dr. Rachel Somerville](https://en.wikipedia.org/wiki/Rachel_Somerville){:target="_blank"} is a senior research scientist at the Flatiron Institute Center for Computational Astrophysics. <!--- and is the George A. and Margaret M. Downsbrough Chair in Astrophysics at Rutgers University. --->
+
+Talk title: "Working towards a new paradigm for understanding galaxy formation and constraining cosmology"

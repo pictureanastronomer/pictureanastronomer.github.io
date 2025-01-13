@@ -12,4 +12,4 @@ category: Invited Speakers
     </div>
 </div>
 
-[Dr. Sanjana Curtis](https://www.sanjana-curtis.com){:target="_blank"} is an NSF Astronomy and Astrophysics postdoctoral fellow in the Department of Astronomy at the University of California, Berkeley. Beginning next year, she will be an assistant professor in the Department of Physics at Oregon State University.
+[Prof. Sanjana Curtis](https://www.sanjana-curtis.com){:target="_blank"} is an assistant professor in the Department of Physics at Oregon State University.
