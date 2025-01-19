@@ -19,6 +19,13 @@ The talks will be followed by a panel discussion. Other department members will 
 
 *Register [here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"} for in-person or virtual attendance.*
 
+Schedule:
+- 6pm: Doors open (opportunity to mingle and engage casually with astronomers before the talks)
+- 6:30 - 6:50pm: Lecture by Chihway Chang (cosmology)
+- 6:50 - 7:10pm: Lecture by Hsiao-Wen Chen (galaxies)
+- 7:10 - 7:30pm: Lecture by Leslie Rogers (exoplanets)
+- 7:30 - 8pm: Q&A/panel discussion
+
 See below for more information about each of the invited speakers and their talks.
 
 <!-- pages/projects.md -->
