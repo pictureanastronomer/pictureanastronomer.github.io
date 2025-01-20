@@ -16,3 +16,5 @@ category: Invited Speakers
 </div> -->
 
 [Prof. Hsiao-Wen Chen](https://lambda.uchicago.edu/wordpress/){:target="_blank"} is a professor in the University of Chicago Department of Astronomy & Astrophysics and a senior member of the Kavli Institute for Cosmological Physics.
+
+Talk title: "Mapping the Dark Universe"

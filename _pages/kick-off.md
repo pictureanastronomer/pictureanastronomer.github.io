@@ -21,8 +21,8 @@ The talks will be followed by a panel discussion. Other department members will 
 
 Schedule:
 - 6pm: Doors open (opportunity to mingle and engage casually with astronomers before the talks)
-- 6:30 - 6:50pm: Lecture by Chihway Chang (cosmology)
-- 6:50 - 7:10pm: Lecture by Hsiao-Wen Chen (galaxies)
+- 6:30 - 6:50pm: Lecture by Chihway Chang (cosmology) - "From Pixels to Cosmology -- How we make sense of the sky"
+- 6:50 - 7:10pm: Lecture by Hsiao-Wen Chen (galaxies) - "Mapping the Dark Universe"
 - 7:10 - 7:30pm: Lecture by Leslie Rogers (exoplanets)
 - 7:30 - 8pm: Q&A/panel discussion
 
