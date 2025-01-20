@@ -3,7 +3,7 @@ layout: page
 title: Rachel Bezanson
 img: assets/img/rachelbezanson.jpg
 importance: 2
-category: Invited Speakers
+category: #Invited Speakers
 ---
 
 <div class="row">
