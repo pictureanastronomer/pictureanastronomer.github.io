@@ -14,6 +14,8 @@ category: Invited Speakers
 
 [Prof. Dame Jocelyn Bell Burnell](https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell){:target="_blank"} is a visiting professor in the University of Oxford Department of Physics.
 
+Before attending Prof. Dame Bell Burnell's talk, we recommend viewing ["I Changed Astronomy Forever. He Won the Nobel Prize for It."](https://www.youtube.com/watch?v=NDW9zKqvPJI){:target="_blank"} by the New York Times.
+
 Talk title: "The discovery of pulsars – a grad student’s tale"
 
 *In this talk I will describe how the discovery of pulsars came about accidentally and what we can learn from a story like this.*
