@@ -3,7 +3,7 @@ layout: page
 title: Tonia Venters
 img: assets/img/toniaventers.jpeg
 importance: 27
-category: Invited Speakers
+category: 
 ---
 
 <div class="row">
