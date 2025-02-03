@@ -13,7 +13,7 @@ social: false
 
 Throughout February, we are hosting public talks featuring a prominent and inspiring woman in astrophysics. Each talk will be followed by a structured Q&A.
 
-These lectures are intended for a general audience. Most events will be held at the William Eckhardt Research Center (5640 S. Ellis Ave., Chicago, IL) at the University of Chicago. Jocelyn Bell Burnell's talk on February 19 will be held at the Adler Planetarium.
+These lectures are intended for a general audience. Most events will be held at the William Eckhardt Research Center (5640 S. Ellis Ave., Chicago, IL) at the University of Chicago, with doors open at 6pm and lectures starting at 6:30pm. Jocelyn Bell Burnell's talk on February 19 will be held at the Adler Planetarium; doors will open at 6:30pm and her lecture will begin at 7pm.
 
 
 *Note that separate registration is required for each talk.*
