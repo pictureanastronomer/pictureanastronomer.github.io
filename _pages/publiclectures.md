@@ -21,7 +21,7 @@ These lectures are intended for a general audience. Most events will be held at 
 #### Schedule
 - Dara Norman -- February 3, 2025 -- [register here](https://forms.gle/FuAxS2zSCpuX4Seb6){:target="_blank"}
 - Katie Mack -- February 7, 2025 -- [register here](https://forms.gle/4KhPRXvUTpyvM6Gm9){:target="_blank"}
-- Dame Jocelyn Bell Burnell -- February 19, 2025 -- registration for [virtual attendance](https://forms.gle/ez8ajBBiGjummteL6){:target="_blank"}/[in-person attendance](https://www.adlerplanetarium.org/event/jocelyn-bell-burnell-lecture/){:target="_blank"}
+- Dame Jocelyn Bell Burnell -- February 19, 2025 -- registration for [virtual attendance](https://forms.gle/ez8ajBBiGjummteL6){:target="_blank"}/[in-person attendance](https://www.adlerplanetarium.org/event/jocelyn-bell-burnell-lecture/){:target="_blank"} \[sold out!\]
 - Anna Frebel -- February 25, 2025 -- [register here](https://forms.gle/1t9N3GGL31TEDykL6){:target="_blank"}
 
 See below for more information about each of the invited speakers and their talks.
