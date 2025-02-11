@@ -13,3 +13,7 @@ category: Invited Speakers
 </div>
 
 [Dr. Katie Mack](https://www.astrokatie.com){:target="_blank"} is the Hawking Chair in Cosmology and Science Communication at the Perimeter Institute for Theoretical Physics. She is the author of the book, *The End of Everything (Astrophysically Speaking)*.
+
+Title: "How the Universe Ends"
+
+Abstract: _The Big Bang theory tells the story of the beginning of the Universe, our cosmic home for the last 13.8 billion years. But how does the story end? I'll share what modern astrophysics tells us about the ultimate fate of the cosmos, and what the catastrophic destruction of all reality would look like to anyone still around to see it._
