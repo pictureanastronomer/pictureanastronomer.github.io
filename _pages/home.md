@@ -30,6 +30,9 @@ Details of our events, including registration and attendance information and rec
 ![calendar](/assets/img/pictureanastronomer_calendar.png){:width="92%"}
 
 
+#### Media:
+- [astrobites write-up of the Picture an Astronomer Symposium](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}
+
 
 
 <!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&bgcolor=%23ffffff&title=Picture%20an%20Astronomer&showTitle=0&src=Y180NmIxN2VjYTAyYzMyZDhmZmUzODY4Yzg4MjhlOWE0OWFhM2RiZjY1MWMxNzQyMzg1YmExOWU5NjhlM2UzNTU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
