@@ -25,13 +25,13 @@ Details of our events, including registration and attendance information and rec
 - Francisco Rodriguez Montero
 - Chin Yi Tan
 
+#### Media:
+- [astrobites write-up of the Picture an Astronomer Symposium](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}
+
+
 **Any questions? Contact Ava Polzin (apolzin [at] uchicago.edu) and/or Galen Tsongas (gtsongas [at] uchicago.edu).**
 
 ![calendar](/assets/img/pictureanastronomer_calendar.png){:width="92%"}
-
-
-#### Media:
-- [astrobites write-up of the Picture an Astronomer Symposium](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}
 
 
 
