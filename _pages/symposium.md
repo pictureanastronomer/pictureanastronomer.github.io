@@ -11,7 +11,7 @@ horizontal: false
 social: false
 ---
 
-**Save the dates: March 4 - 6, 2025 at the University of Chicago William Eckhardt Research Center (5640 S. Ellis Ave., Chicago, IL)**
+**Save the dates: March 4 - 6, 2025 at the University of Chicago William Eckhardt Research Center (5640 S. Ellis Ave., Chicago, IL) and online**
 
 In March 2025, we will host a scientific symposium including astrophysicists from diverse institutions and backgrounds. We intend this to be an opportunity to engage in a larger discussion about the state of the field for women around the globe and will spend a portion of the symposium in “hack day” mode, looking to discuss solutions to universal and near-universal challenges to the retention of female astrophysicists. An extended goal is to codify these discussions in public white papers. This symposium alone will not fix the leaky pipeline, but we hope that crowd-sourcing best practices for increasing retention will inspire the implementation of even small, but significant changes that lead to inclusion. Simultaneously, we hope that promoting these sorts of discussions will lead to the potential for larger changes with expanded engagement.
 
