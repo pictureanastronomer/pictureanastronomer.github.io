@@ -10,7 +10,8 @@ social: false
 
 Some quick statistics about our symposium:
 - Our attendees represent -- as judged by home institution -- at least fifteen countries and six continents (and we might be able to claim a seventh for all of the attendees with experiments and experience in Antarctica).
-- Of 212 registrants, 136 are attending in person and 75 are attending online.
+- Similarly, attendees are coming from over 80 institutions.
+- Of 212 registrants, 136 are attending in person and 76 are attending online.
 
 
 List of attendees -- remote participants names are italicized:

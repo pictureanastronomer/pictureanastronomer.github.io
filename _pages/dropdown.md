@@ -8,7 +8,7 @@ children:
     - title: General Information + Speakers
       permalink: /symposium/
     - title: Attendee List
-      permalink: /symposiumparticpants/
+      permalink: /symposiumparticipants/
     - title: Schedule + Logistics
       permalink: /symposiumschedule/
 ---
