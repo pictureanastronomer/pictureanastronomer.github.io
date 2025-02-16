@@ -49,6 +49,7 @@ Hyde Park has lots of restaurants and bars. We list here a few options in the im
 - [Saucy Porka](https://www.saucyporka.com/hyde-park){:target="_blank"} (1164 E. 55th St.)
 - Reynolds Club at 57th and University (5076 S. University Ave.) & [Pret a Manger](https://www.pret.com/en-US/shop-finder/l/chicago/5706-suniversity-ave/10619){:target="_blank"} - Food court with variety of cuisines
 - [Jimmy's Woodlawn Tap](https://www.yelp.com/biz/woodlawn-tap-chicago){:target="_blank"} (1172 E. 55th St.)
+- [Seven Ten Social](https://seventensocial.com){:target="_blank"} (1055 E. 55th St.)
 
 **10-15 min walk from ERC:**
 - [Medici](https://www.medici57.com/){:target="_blank"} (1327 E. 57th St.)
