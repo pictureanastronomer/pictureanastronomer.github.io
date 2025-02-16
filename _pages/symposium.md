@@ -2,9 +2,8 @@
 layout: page
 title: Symposium
 permalink: /symposium/
-# description: A growing collection of your cool projects.
 years: [2024]
-nav: true
+nav: false
 nav_order: 4
 display_categories: [Invited Speakers]
 horizontal: false

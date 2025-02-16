@@ -1,13 +1,14 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 6
+title: Symposium
+nav: true
+nav_order: 4
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: General Information + Speakers
+      permalink: /symposium/
+    - title: Attendee List
+      permalink: /symposiumparticpants/
+    - title: Schedule + Logistics
+      permalink: /symposiumschedule/
 ---
