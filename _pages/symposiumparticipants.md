@@ -10,8 +10,8 @@ social: false
 
 Some quick statistics about our symposium:
 - Our attendees represent -- as judged by home institution -- at least fifteen countries and six continents (and we might be able to claim a seventh for all of the attendees with experiments and experience in Antarctica).
-- Similarly, attendees are coming from over 80 institutions.
-- Of 213 registrants, 137 are attending in person and 76 are attending online.
+- Similarly, attendees are coming from more than 81 institutions.
+- Of 215 registrants, 138 are attending in person and 77 are attending online.
 
 
 List of attendees -- remote participants' names are italicized:
@@ -49,7 +49,7 @@ List of attendees -- remote participants' names are italicized:
 32. Bradford Benson (University of Chicago)
 33. *Brianna Lacy (University of Californa, Santa Cruz)*
 34. *Briley Lewis (University of California, Santa Barbara)*
-35. Candice Stauffer (City of Chicago)
+35. Candice Stauffer (City of Chicago/Refactor312)
 36. Caroline von Raesfeld (Northwestern University)
 37. *Cece Thieberger (Northern Arizona University)*
 38. Chantene Zichterman-Delgado (University of Chicago)
@@ -99,133 +99,135 @@ List of attendees -- remote participants' names are italicized:
 82. Hrushikesha Athreya (University of Chicago)
 83. Hsiao-Wen Chen (University of Chicago)
 84. *Huei Sears (Rutgers University)*
-85. *Izabella Pozo (Stony Brook University)*
-86. Janiris Rodriguez-Bueno (University of Illinois Urbana-Champaign)
-87. Jazmine Jefferson (University of Chicago)
-88. *Jennifer Willis (Sky & Telescope)*
-89. Jenny Greene (Princeton University)
-90. *Jess Speedie (University of Victoria)*
-91. Jessica Zebrowski (University of Chicago)
-92. Jessie Christiansen (Caltech/IPAC)
-93. Joan Steel (Alpha Wealth Advisor, LLC)
-94. *Jodie Kiyokawa (University of Wisconsin-Madison)*
-95. *Johannes U. Lange (American University)*
-96. John Carlstron (University of Chicago)
-97. John Cruz-Barcenas
-98. *Jordan Zambrano (Yachay Tech University)*
-99. Joseph Guzman (Chicago Astronomer)
-100. Josephine Chishala (Botswana International University of Science and Technology)
-101. Julie Crowell (University of Chicago)
-102. *Katherine (Katie) Kudla (University of California, Santa Barbara)*
-103. *Katherine Myers (York University)*
-104. Katherine Whitaker (University of Massachusetts Amherst)
-105. *Katie Auchettl (University of Melbourne)*
-106. Katie Bailey (University of Chicago)
-107. Katie Breivik (Carnegie Mellon University)
-108. Kelly Holley-Bockelmann (Vanderbilt University)
-109. Keerthi Kunnumkai (Carnegie Mellon University)
-110. Kim-Vy Tran (Harvard-Smithsonian Center for Astrophysics)
-111. *Kira Lund (Lund University)*
-112. Kyle Dawson (University of Utah)
-113. Lamiya Mowla (Wellesley College)
-114. Laura Newburgh (Yale University)
-115. Laura Trouille (Adler Planetarium)
-116. Leah Jenks (University of Chicago)
-117. Lilly Joseph (Benedictine University)
-118. Lindsay House (University of Texas, Austin)
-119. Lindsey Bleem (Argonne National Laboratory/KICP, University of Chicago)
-120. *Lisa Warshauer (University of Chicago)*
-121. *Lou Baya Ould Rouis (Boston University)*
-122. *Madeline Howell (Ohio State University)*
-123. Madison Brady (University of Chicago)
-124. Maggie Verrico (University of Illinois Urbana-Champaign)
-125. *Maia Williams (Penn State University)*
-126. Malena Rice (Yale University)
-127. Mansha Nigam (University of Chicago)
-128. *Maria Mutz (University of Arizona)*
-129. *Marina Orio (University of Wisconsin/INAF-Padova)*
-130. Mary Iskakova (Washington University in St. Louis)
-131. Mason McCormack (University of Chicago)
-132. Maya Atassi (University of Chicago)
-133. Maya Fishbach (University of Toronto)
-134. *Meghana Pannikkote (University of Rome Tor Vergata)*
-135. Melanie Archipley (University of Chicago)
-136. *Mi Dai (University of Pittsburgh)*
-137. *Michael Brown (Monash University)*
-138. Michelle Marrero-Garcia (University of Wisconsin-Madison)
-139. Michelle Somogyi (University of Chicago)
-140. *Micah Oeur (University of California, Merced)*
-141. Mike Gladders (University of Chicago)
-142. Mikel Charles (Ohio State University)
-143. *Misty Bentz (Georgia State University)*
-144. Molly Wolfson (Ohio State University)
-145. Namrata Roy (Johns Hopkins University)
-146. *Natalie Han-Grassman (Arizona State University)*
-147. Natalie Orrantia (University of Chicago)
-148. Nathaniel Alden (University of Chicago)
-149. *Neev Shah (University of Arizona)*
-150. *Neha Dushyantha Kumar (Penn State University)*
-151. *Nicole Flors (Northwestern University)*
-152. Nicole Ford (McGill University)
-153. *Nicole Gugliucci (Saint Anselm College)*
-154. *Nikki Nielsen (University of Oklahoma)*
-155. Niranjan Chandra Roy (University of Connecticut)
-156. *Paarmita Pandey (Ohio State University)*
-157. Padmavathi Venkatraman (University of Illinois Urbana-Champaign) 
-158. Pazit Rabinowitz (Washington University in St. Louis)
-159. *Raagini Patki (Cornell University)*
-160. Rachel Lee McClure (University of Wisconsin)
-161. Rachel Somerville (Center for Computational Astrophysics, Flatiron Institute)
-162. *Raja GuhaThakurta (University of California, Santa Cruz)*
-163. *Raquel Forés-Toribio (Ohio State University)*
-164. Rebecca McClain (Ohio State University)
-165. Renée Hložek (University of Toronto)
-166. *Richard Fisher (Lake Forest College)*
-167. Rithika Tudmilla (University of Chicago)
-168. *Ritika Sethi (Massachusetts Institute of Technology)*
-169. *Rosie Cynthia Megyola (University of Connecticut)*
-170. *Runshi Fu (Stony Brook University)*
-171. *Sabrina Vitória de Souza Nogueira da Silva (Universidade Cidade de São Paulo)*
-172. Sam Usman (University of Chicago)
-173. Sanah Bhimani (University of Chicago)
-174. Sanjana Curtis (Oregon State University)
-175. *Sanyukta Agrawal (University of Kansas)*
-176. Sarah Biddle (Harvard-Smithsonian Center for Astrophysics)
-177. *Sarah Loebman (University of California, Merced)*
-178. Scott Dodelson (Fermilab/University of Chicago)
-179. Scott Mackey (University of Chicago)
-180. *Shanika Galaudage (Observatoire la Côte d'Azur)*
-181. Shany Danieli (Tel Aviv University)
-182. Shirin Zaidi (Graduate Center, City University of New York)
-183. Sierra Bet (University of Washington)
-184. Snehil Kumar Vidyarthy (University of Chicago)
-185. Sofia Fadeeva (University of Chicago)
-186. Sofia Splawska (Carnegie Mellon University)
-187. *Somayeh Khakpash (Rutgers University)*
-188. Sonu Tabitha Paulson (Tata Institute of Fundemental Research, Mumbai)
-189. Spencer Wilken (University of Illinois)
-190. Stephen McKay (University of Wisconsin-Madison)
-191. Sthabile Kolwa (University of Johannesburg)
-192. *Surendra Bhattarai (Yale University)*
-193. *Sydney Andersen (University of Washington)*
-194. Sylvia Biscoveanu (Northwestern University)
-195. *Talia O'Shea (University of Wisconsin-Madison)*
-196. Tanvi Karwal (University of Chicago)
-197. *Tanya Urrutia (Leibiniz Institut für Astrophysik, Potsdam)*
-198. *Teagan Clarke (Monash University)*
-199. Tjitske Starkenburg (Northwestern University)
-200. Tom Crawford (University of Chicago)
-201. Tony Wong (University of Illinois Urbana-Champaign)
-202. Tyler Natoli (University of Chicago)
-203. *Uli Solovieva (University of Chicago)*
-204. *Vaish (Tata Communications)*
-205. Varune Kore (University of Kansas)
-206. Veronica Dike (University of Illinois)
-207. Vighnesh Nagpal (University of Chicago)
-208. Vivian Miranda (Stony Brook University)
-209. William S. Higgins (Retired, Fermilab)
-210. Xu Yikangshi (University of Chicago)
-211. *Yang Sun (University of Arizona)*
-212. *Yasmeen Asali (Yale University)*
-213. *Zoe Hackshaw (University of Texas, Austin)*
+85. Irina Zhuravleva (University of Chicago)
+86. *Izabella Pozo (Stony Brook University)*
+87. Janiris Rodriguez-Bueno (University of Illinois Urbana-Champaign)
+88. Jazmine Jefferson (University of Chicago)
+89. *Jennifer Willis (Sky & Telescope)*
+90. Jenny Greene (Princeton University)
+91. *Jess Speedie (University of Victoria)*
+92. Jessica Zebrowski (University of Chicago)
+93. Jessie Christiansen (Caltech/IPAC)
+94. Joan Steel (Alpha Wealth Advisor, LLC)
+95. *Jodie Kiyokawa (University of Wisconsin-Madison)*
+96. *Johannes U. Lange (American University)*
+97. John Carlstron (University of Chicago)
+98. John Cruz-Barcenas
+99. *Jordan Zambrano (Yachay Tech University)*
+100. Joseph Guzman (Chicago Astronomer)
+101. Josephine Chishala (Botswana International University of Science and Technology)
+102. Julie Crowell (University of Chicago)
+103. *Katherine (Katie) Kudla (University of California, Santa Barbara)*
+104. *Katherine Myers (York University)*
+105. Katherine Whitaker (University of Massachusetts Amherst)
+106. *Katie Auchettl (University of Melbourne)*
+107. Katie Bailey (University of Chicago)
+108. Katie Breivik (Carnegie Mellon University)
+109. Kelly Holley-Bockelmann (Vanderbilt University)
+110. Keerthi Kunnumkai (Carnegie Mellon University)
+111. Kim-Vy Tran (Harvard-Smithsonian Center for Astrophysics)
+112. *Kira Lund (Lund University)*
+113. Kyle Dawson (University of Utah)
+114. Lamiya Mowla (Wellesley College)
+115. Laura Newburgh (Yale University)
+116. Laura Trouille (Adler Planetarium)
+117. Leah Jenks (University of Chicago)
+118. Lilly Joseph (Benedictine University)
+119. Lindsay House (University of Texas, Austin)
+120. Lindsey Bleem (Argonne National Laboratory/KICP, University of Chicago)
+121. *Lisa Warshauer (University of Chicago)*
+122. *Lou Baya Ould Rouis (Boston University)*
+123. *Madeline Howell (Ohio State University)*
+124. Madison Brady (University of Chicago)
+125. Maggie Verrico (University of Illinois Urbana-Champaign)
+126. *Maia Williams (Penn State University)*
+127. Malena Rice (Yale University)
+128. Mansha Nigam (University of Chicago)
+129. *Maria Mutz (University of Arizona)*
+130. *Marina Orio (University of Wisconsin/INAF-Padova)*
+131. Mary Iskakova (Washington University in St. Louis)
+132. Mason McCormack (University of Chicago)
+133. Maya Atassi (University of Chicago)
+134. Maya Fishbach (University of Toronto)
+135. *Meghana Pannikkote (University of Rome Tor Vergata)*
+136. Melanie Archipley (University of Chicago)
+137. *Mi Dai (University of Pittsburgh)*
+138. *Michael Brown (Monash University)*
+139. Michelle Marrero-Garcia (University of Wisconsin-Madison)
+140. Michelle Somogyi (University of Chicago)
+141. *Micah Oeur (University of California, Merced)*
+142. Mike Gladders (University of Chicago)
+143. Mikel Charles (Ohio State University)
+144. *Misty Bentz (Georgia State University)*
+145. Molly Wolfson (Ohio State University)
+146. *Monica Rizzo (Rearc)*
+147. Namrata Roy (Johns Hopkins University)
+148. *Natalie Han-Grassman (Arizona State University)*
+149. Natalie Orrantia (University of Chicago)
+150. Nathaniel Alden (University of Chicago)
+151. *Neev Shah (University of Arizona)*
+152. *Neha Dushyantha Kumar (Penn State University)*
+153. *Nicole Flors (Northwestern University)*
+154. Nicole Ford (McGill University)
+155. *Nicole Gugliucci (Saint Anselm College)*
+156. *Nikki Nielsen (University of Oklahoma)*
+157. Niranjan Chandra Roy (University of Connecticut)
+158. *Paarmita Pandey (Ohio State University)*
+159. Padmavathi Venkatraman (University of Illinois Urbana-Champaign) 
+160. Pazit Rabinowitz (Washington University in St. Louis)
+161. *Raagini Patki (Cornell University)*
+162. Rachel Lee McClure (University of Wisconsin)
+163. Rachel Somerville (Center for Computational Astrophysics, Flatiron Institute)
+164. *Raja GuhaThakurta (University of California, Santa Cruz)*
+165. *Raquel Forés-Toribio (Ohio State University)*
+166. Rebecca McClain (Ohio State University)
+167. Renée Hložek (University of Toronto)
+168. *Richard Fisher (Lake Forest College)*
+169. Rithika Tudmilla (University of Chicago)
+170. *Ritika Sethi (Massachusetts Institute of Technology)*
+171. *Rosie Cynthia Megyola (University of Connecticut)*
+172. *Runshi Fu (Stony Brook University)*
+173. *Sabrina Vitória de Souza Nogueira da Silva (Universidade Cidade de São Paulo)*
+174. Sam Usman (University of Chicago)
+175. Sanah Bhimani (University of Chicago)
+176. Sanjana Curtis (Oregon State University)
+177. *Sanyukta Agrawal (University of Kansas)*
+178. Sarah Biddle (Harvard-Smithsonian Center for Astrophysics)
+179. *Sarah Loebman (University of California, Merced)*
+180. Scott Dodelson (Fermilab/University of Chicago)
+181. Scott Mackey (University of Chicago)
+182. *Shanika Galaudage (Observatoire la Côte d'Azur)*
+183. Shany Danieli (Tel Aviv University)
+184. Shirin Zaidi (Graduate Center, City University of New York)
+185. Sierra Bet (University of Washington)
+186. Snehil Kumar Vidyarthy (University of Chicago)
+187. Sofia Fadeeva (University of Chicago)
+188. Sofia Splawska (Carnegie Mellon University)
+189. *Somayeh Khakpash (Rutgers University)*
+190. Sonu Tabitha Paulson (Tata Institute of Fundemental Research, Mumbai)
+191. Spencer Wilken (University of Illinois)
+192. Stephen McKay (University of Wisconsin-Madison)
+193. Sthabile Kolwa (University of Johannesburg)
+194. *Surendra Bhattarai (Yale University)*
+195. *Sydney Andersen (University of Washington)*
+196. Sylvia Biscoveanu (Northwestern University)
+197. *Talia O'Shea (University of Wisconsin-Madison)*
+198. Tanvi Karwal (University of Chicago)
+199. *Tanya Urrutia (Leibiniz Institut für Astrophysik, Potsdam)*
+200. *Teagan Clarke (Monash University)*
+201. Tjitske Starkenburg (Northwestern University)
+202. Tom Crawford (University of Chicago)
+203. Tony Wong (University of Illinois Urbana-Champaign)
+204. Tyler Natoli (University of Chicago)
+205. *Uli Solovieva (University of Chicago)*
+206. *Vaish (Tata Communications)*
+207. Varune Kore (University of Kansas)
+208. Veronica Dike (University of Illinois)
+209. Vighnesh Nagpal (University of Chicago)
+210. Vivian Miranda (Stony Brook University)
+211. William S. Higgins (Retired, Fermilab)
+212. Xu Yikangshi (University of Chicago)
+213. *Yang Sun (University of Arizona)*
+214. *Yasmeen Asali (Yale University)*
+215. *Zoe Hackshaw (University of Texas, Austin)*
 
