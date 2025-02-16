@@ -14,7 +14,7 @@ Some quick statistics about our symposium:
 - Of 213 registrants, 137 are attending in person and 76 are attending online.
 
 
-List of attendees -- remote participants names are italicized:
+List of attendees -- remote participants' names are italicized:
 1. *A. Clausell (SARA)*
 2. Aadya Agrawal (University of Illinois Urbana-Champaign)
 3. Abigail Cone (University of Alabama, Huntsville)
