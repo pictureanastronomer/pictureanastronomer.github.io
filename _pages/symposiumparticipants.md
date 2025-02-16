@@ -19,7 +19,7 @@ List of attendees -- remote participants' names are italicized:
 2. Aadya Agrawal (University of Illinois Urbana-Champaign)
 3. Abigail Cone (University of Alabama, Huntsville)
 4. Abigail Vieregg (University of Chicago)
-5. *Abigaile White (Harvard University)*
+5. *Abigail White (Harvard University)*
 6. *Aldana Grichener (University of Arizona)*
 7. *Alessa Wiggins (Texas Christian University)*
 8. Alex Ji (University of Chicago)
