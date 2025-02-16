@@ -66,6 +66,13 @@ Hyde Park has lots of restaurants and bars. We list here a few options in the im
 - [Rajun Cajun](https://www.rajuncajunhp.com/){:target="_blank"}  (1459 E. 53rd St.)
 - [Shinju Sushi](http://www.shinjusushichicago.com){:target="_blank"} (1375 E. 53rd St.)
 
+**Farther out on 55th St., but still easily accessible:**
+- [Snail Thai](http://www.snailthai.com){:target="_blank"} (1649 E. 55th St.)
+- [Thai 55](https://thai55chicago.com){:target="_blank"} (1607 E. 55th St.)
+- [Siam Thai](https://www.yelp.com/biz/siam-thai-cuisine-chicago-4){:target="_blank"} (1639 E. 55th St.)
+- [Kikuya Japanese Restaurant](https://kikuyaonline.com){:target="_blank"} (Carry-out only, 1601 E. 55th St.)
+- [Cove Lounge](https://www.yelp.com/biz/the-cove-lounge-chicago){:target="_blank"} (1750 E. 55th St.)
+
 
 ##### Staying in Hyde Park
 
