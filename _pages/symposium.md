@@ -16,7 +16,7 @@ In March 2025, we will host a scientific symposium including astrophysicists fro
 
 We encourage all professional astronomers/astrophysicists, not just women, to participate.
 
-__*Register [here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"} by February 15.*__
+__*In-person registration is now closed. Registration for virtual attendance will remain open [here](https://forms.gle/VSXNej4C2gEuuz7y5){:target="_blank"} through February 21.*__
 
 See below for more information about each of the invited speakers and their talks (more to be added).
 
