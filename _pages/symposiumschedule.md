@@ -10,6 +10,7 @@ social: false
 
 We will post a draft schedule later this week. Please check back soon. 
 
+If you post about the symposium on social media, please consider using #PictureAnAstronomer.
 
 #### Travel and Accommodation
 

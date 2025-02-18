@@ -19,7 +19,7 @@ Details of our events, including registration and attendance information and rec
 
 #### Local Organizing Committee
 - Galen Tsongas
-- Ryn Grutkowski
+- Ryn Grutkoski
 - Anna Kofman
 - Scott Mackey
 - Francisco Rodriguez Montero
