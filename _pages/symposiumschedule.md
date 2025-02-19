@@ -40,4 +40,4 @@ So that everyone is on the same page in discussions, here are some suggested mat
 - [Zheng, Yuan, & Ni (2022)](https://elifesciences.org/articles/78909){:target="_blank"}
 - [Lopes (2024)](https://www.sciencedirect.com/science/article/pii/S0277539524001407){:target="_blank"}
 
-For undergraduates/early graduate students, we also recommend [Astronomy as a Field: A Guide for Aspiring Astrophysicists](https:/arxiv.org//abs/2312.04041), which was authored by, and contains advice from, a number of Picture an Astronomer speakers and attendees.
+For undergraduates/early graduate students, we also recommend [Astronomy as a Field: A Guide for Aspiring Astrophysicists](https://arxiv.org//abs/2312.04041){:target="_blank"}, which was authored by, and contains advice from, a number of Picture an Astronomer speakers and attendees.
