@@ -14,4 +14,6 @@ category: Invited Speakers
 
 [Dr. Laura Trouille](https://www.adlerplanetarium.org/explore/about-us/who-we-are/){:target="_blank"} is the Principle Investigator of Zooniverse and Vice President of Science Engagement & Visualization at the Adler Planetarium.
 
-Title: "Expanding Horizons: Non-Academic Careers and Inclusive Engagement Strategies for Retaining Women in Astronomy"
+Talk title: "Sustaining Careers in Astronomy: Opportunities, Engagement, and Meaning-Making"
+
+Abstract: _A holistic approach to retention in astronomy requires a more inclusive view of career pathways beyond academia and a commitment to equipping astronomers for success in diverse roles. This talk will explore the work of AAS Committees in supporting career development, as well as opportunities within cultural institutions and other learning environments that leverage astronomical expertise. Additionally, I will highlight the efforts of the International Astronomical Union’s Office of Astronomy for Development (OAD) and the North American Regional Office in using astronomy to advance the UN Sustainable Development Goals, with a particular focus on the Women and Girls in Astronomy Project. Finally, I will discuss how public engagement serves as a powerful retention strategy, emphasizing how platforms like Zooniverse offer fertile ground for broader impacts, meaning-making, and career sustainability while contributing to research._

@@ -3,7 +3,7 @@ layout: page
 title: Vivian Miranda
 img: assets/img/vivianmiranda.jpeg
 importance: 16
-category: Invited Speakers
+category:
 ---
 
 <div class="row">
