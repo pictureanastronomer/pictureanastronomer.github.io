@@ -13,3 +13,7 @@ category: Invited Speakers
 </div>
 
 [Prof. Shany Danieli](https://www.shanydanieli.com){:target="_blank"} is an assistant professor in the School of Physics & Astronomy at Tel Aviv University.
+
+Talk title: "Dwarf Galaxies Beyond the Local Group"
+
+Abstract: _Low-mass (dwarf) galaxies are key to probing dark matter and galaxy formation on small scales but remain challenging to detect and study. Research has largely focused on Milky Way satellites, but advances in telescopes and imaging now enable studies beyond the Local Group. I will review obstacles to studying distant dwarfs, highlight discoveries revealing their remarkable diversity, and discuss size-mass outliers, dark matter variations, and globular cluster populations. I will conclude with ongoing and future surveys essential for mapping the broader dwarf galaxy population._
