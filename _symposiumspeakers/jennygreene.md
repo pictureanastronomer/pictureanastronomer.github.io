@@ -13,3 +13,5 @@ category: Invited Speakers
 </div>
 
 [Prof. Jenny Greene](https://crispygreene.wixsite.com/jenny){:target="_blank"} is a professor in the Department of Astrophysical Sciences at Princeton University.
+
+Talk title: "Finding Satellites with ELVES and ELVES-Dwarf"
