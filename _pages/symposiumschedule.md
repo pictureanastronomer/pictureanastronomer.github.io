@@ -39,5 +39,6 @@ So that everyone is on the same page in discussions, here are some suggested mat
 - [Raabe & Block (2024)](https://www.tandfonline.com/doi/full/10.1080/14616696.2024.2349217){:target="_blank"}
 - [Zheng, Yuan, & Ni (2022)](https://elifesciences.org/articles/78909){:target="_blank"}
 - [Lopes (2024)](https://www.sciencedirect.com/science/article/pii/S0277539524001407){:target="_blank"}
+- [Proceedings](https://www.stsci.edu/contents/events/stsci/1992/september/women-at-work-a-meeting-on-the-status-of-women-in-astronomy?timeframe=past&keyword=women&page=1#event-materials){:target="_blank"} of the 1992 Women in Astronomy meeting hosted at STScI
 
 For undergraduates/early graduate students, we also recommend [Astronomy as a Field: A Guide for Aspiring Astrophysicists](https://arxiv.org//abs/2312.04041){:target="_blank"}, which was authored by, and contains advice from, a number of Picture an Astronomer speakers and attendees.
