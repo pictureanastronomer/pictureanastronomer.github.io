@@ -99,8 +99,6 @@ social: false
 - **3:30-4:30pm**: Joint KICP-Picture an Astronomer Colloquium - Kate Whitaker (UMass Amherst) - "Unveiling the Epoch of Quenching"
 	<details>
 	When the Universe was merely a few billion years old, about half of massive galaxies had already formed the bulk of their stars and new star formation plummeted. New observations from the James Webb Space Telescope are now pushing the existence of these ‘red and dead’ (quiescent) galaxies to uncomfortably high redshifts. How these massive galaxies form so rapidly and quench at such early times remains a puzzle. Their dark matter halos should contain large gas reservoirs that should cool efficiently, sustaining star formation over long periods. In this talk, I will review the recent innovative techniques developed to probe the physical properties of early quiescent galaxies, and the key observations constraining their formation histories and molecular gas content. I will present promising paths forward towards solving this puzzle that leverage strong gravitational lensing and the capabilities of the James Webb Space Telescope and ALMA.
-
-	Zoom: [https://uchicago.zoom.us/j/93381746022?pwd=154p1wHz69diNZPS9Ar47URvOUCOcz.1](https://uchicago.zoom.us/j/93381746022?pwd=154p1wHz69diNZPS9Ar47URvOUCOcz.1){:target="_blank"}
 	</details>
 
 - **4:30pm on**: Reception
