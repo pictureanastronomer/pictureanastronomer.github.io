@@ -15,7 +15,9 @@ social: false
 - **9:00-9:25am**: Ava Polzin (Chicago) for the SOC
 - **9:25-9:50am**: Shany Danieli (Tel Aviv) - "Dwarf Galaxies Beyond the Local Group"
 {% details Abstract %}
+
 Low-mass (dwarf) galaxies are key to probing dark matter and galaxy formation on small scales but remain challenging to detect and study. Research has largely focused on Milky Way satellites, but advances in telescopes and imaging now enable studies beyond the Local Group. I will review obstacles to studying distant dwarfs, highlight discoveries revealing their remarkable diversity, and discuss size-mass outliers, dark matter variations, and globular cluster populations. I will conclude with ongoing and future surveys essential for mapping the broader dwarf galaxy population.
+
 {% enddetails %}
 - **9:50-10:15am**: Jenny Greene (Princeton) - "Searching for Satellites of LMC Analogs"
 {% details Abstract %}
@@ -24,7 +26,7 @@ Low-mass dwarf galaxies with stellar masses less than a billion suns have provid
 - **10:15-10:40am**: Daniela Calzetti (UMass Amherst) - "Tracking and Understanding Star Formation in the Local Universe"
 {% details Abstract %}
 Our ability to trace star formation and the ensuing stellar feedback hinges on our ability to measure star formation rates with accuracy. This usually implies understanding how tracers may be affected by extraneous contributions, e.g., from older stellar populations non involved in the star formation. I will provide a short review of the current status of star formation rate tracers and how they reflect the complex multi-scale ecosystem of galaxies.
-{% enddetails%}
+{% enddetails %}
 - **10:40-11:00am**: Break
 - **11:00-11:25am**: Allison Strom (Northwestern) - "Galaxy Chemistry and You"
 {% details Abstract %}
