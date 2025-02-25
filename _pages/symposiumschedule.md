@@ -115,7 +115,7 @@ social: false
 	<details>
 	We are now at the start of the revolution where deep high resolution imaging that surveys increasingly vast cosmological volumes is available.  With sophisticated computer algorithms to sift through the massive legacy data-sets, the AGEL survey searches for the distinct visual signature of strong gravitational lensing to identify thousands of halos spanning a wide range in mass.  The AGEL lenses include deflectors at z>0.5 that are ideal for follow-up studies to track how mass density profiles evolve with redshift and identifying very rare compound lenses for measuring cosmological parameters.  The AGEL survey also is a resource for refining automated all-sky searches and a pathfinder for deep all-sky surveys such as EUCLID, LSST, and Roman to use strong lenses to address a range of questions in astrophysics and cosmology.
 
-	I will also discuss representation in lead-author publications within the ASTRO 3D Centre of Excellence.  Of 443 refereed publications, women were first-author on 38% which is nearly double that of the astronomy field (\~20%).  We show that the combination of female leadership and higher fraction of female members correlates with a higher fraction of female-led publications.  Our findings show that representation in refereed publications can be achieved within \~5 years by combining evidence-based recruitment strategies with representation in supervisors and collaborations.
+	I will also discuss representation in lead-author publications within the ASTRO 3D Centre of Excellence.  Of 443 refereed publications, women were first-author on 38% which is nearly double that of the astronomy field (~20%).  We show that the combination of female leadership and higher fraction of female members correlates with a higher fraction of female-led publications.  Our findings show that representation in refereed publications can be achieved within ~5 years by combining evidence-based recruitment strategies with representation in supervisors and collaborations.
 	</details>
 
 - **9:50-10:15am**: Katie Breivik (Carnegie Mellon) - "Binary stars: a decades-old problem with an open-science solution"
@@ -136,7 +136,7 @@ social: false
 
 - **11:25-11:50am**: Maya Fishbach (Toronto) - "Gravitational waves from the stellar graveyard"
 	<details>
-	The LIGO-Virgo-KAGRA Collaboration has observed \~100 gravitational-wave sources to date, including mergers between black holes, neutron stars, and mixed neutron star-black holes. These neutron stars and black holes connect many astrophysical puzzles, including the lives and deaths of stars, star cluster dynamics, cosmic chemical enrichment, and the expansion history of the Universe. I will describe some recent astrophysical lessons from gravitational-wave discoveries.
+	The LIGO-Virgo-KAGRA Collaboration has observed ~100 gravitational-wave sources to date, including mergers between black holes, neutron stars, and mixed neutron star-black holes. These neutron stars and black holes connect many astrophysical puzzles, including the lives and deaths of stars, star cluster dynamics, cosmic chemical enrichment, and the expansion history of the Universe. I will describe some recent astrophysical lessons from gravitational-wave discoveries.
 	</details>
 
 - **11:50-1:15pm**: Lunch
