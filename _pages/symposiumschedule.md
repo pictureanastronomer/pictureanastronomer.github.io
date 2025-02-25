@@ -10,7 +10,7 @@ social: false
 
 #### Schedule
 
-##### Monday
+<!-- ##### Monday
 - **8:00-9:00am**: Coffee
 - **9:00-9:25am**: Ava Polzin (Chicago) for the SOC
 - **9:25-9:50am**: Shany Danieli (Tel Aviv) - "Dwarf Galaxies Beyond the Local Group"
@@ -46,7 +46,7 @@ social: false
 - **1:40-2:00pm**: Introduction to discussions
 - **2:00-5:15pm**: Discussions
 - **5:15-5:30pm**: Debrief
-- **5:30pm on**: Reception and keynote remarks from KICP Director, Abby Vieregg (Chicago)
+- **5:30pm on**: Reception and keynote remarks from KICP Director, Abby Vieregg (Chicago) -->
 
 #### Social Media
 
