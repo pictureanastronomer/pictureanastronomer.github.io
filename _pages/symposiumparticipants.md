@@ -26,32 +26,33 @@ List of attendees -- remote participants' names are italicized:
 8. *Alessa Wiggins (Texas Christian University)*
 9. Alex Ji (University of Chicago)
 10. *Alexandra Hankis (University of Chicago)*
-11. Alexandra Mannings (University of California, Santa Cruz)
-12. *Alison Klesman (Astronomy Magazine)*
-13. Allison Strom (Northwestern University)
-14. *Alshimaa Ahmed (Wellesley College)*
-15. Amanda Wasserman (University of Illinois Urbana-Champaign)
-16. *Amy Barger (University of Wisconsin-Madison)*
-17. *Amy Glazier (Meredith College)*
-18. *Anahí Caldú (Institute of Astrophysics, University of Vienna)*
-19. Andrea Gokus (Washington University in St. Louis)
-20. Andrey Kravtsov (University of Chicago)
-21. *Angelle Tanner (Mississippi State University)*
-22. Ani Chiti (University of Chicago)
-23. *Anika Goel (Indiana University, Bloomington)*
-24. Ann-Marsha Alexis (Carnegie Mellon University)
-25. Anna Gagnebin (University of California, Santa Cruz)
-26. Anna Kofman (University of Chicago)
-27. *Anna Payne (STScI)*
-28. Annie Heinrich (University of Chicago)
-29. *Ariane Dekker (Kavli Institute for Cosmological Physics, University of Chicago)*
-30. *Ashi Poorey (University of Illinois Urbana-Champaign)*
-31. Ashley Ahiku (University of Chicago)
-32. Ashley Hannah (DePaul University)
-33. *Ashley Lieber (University of Kansas)*
-34. Ava Polzin (University of Chicago)
-35. *Ayesha Abdullah (University of Massachusetts, Amherst)*
-36. Ayesha Rana (University of Chicago)
+11. Alexandra Hanselman (University of Chicago)
+12. Alexandra Mannings (University of California, Santa Cruz)
+13. *Alison Klesman (Astronomy Magazine)*
+14. Allison Strom (Northwestern University)
+15. *Alshimaa Ahmed (Wellesley College)*
+16. Amanda Wasserman (University of Illinois Urbana-Champaign)
+17. *Amy Barger (University of Wisconsin-Madison)*
+18. *Amy Glazier (Meredith College)*
+19. *Anahí Caldú (Institute of Astrophysics, University of Vienna)*
+20. Andrea Gokus (Washington University in St. Louis)
+21. Andrey Kravtsov (University of Chicago)
+22. *Angelle Tanner (Mississippi State University)*
+23. Ani Chiti (University of Chicago)
+24. *Anika Goel (Indiana University, Bloomington)*
+25. Ann-Marsha Alexis (Carnegie Mellon University)
+26. Anna Gagnebin (University of California, Santa Cruz)
+27. Anna Kofman (University of Chicago)
+28. *Anna Payne (STScI)*
+29. Annie Heinrich (University of Chicago)
+30. *Ariane Dekker (Kavli Institute for Cosmological Physics, University of Chicago)*
+31. *Ashi Poorey (University of Illinois Urbana-Champaign)*
+32. Ashley Ahiku (University of Chicago)
+33. Ashley Hannah (DePaul University)
+34. *Ashley Lieber (University of Kansas)*
+35. Ava Polzin (University of Chicago)
+36. *Ayesha Abdullah (University of Massachusetts, Amherst)*
+37. Ayesha Rana (University of Chicago)
 38. *Becka Phillipson (Villanova University)*
 39. *Binod Bhattarai (University of California, Merced)*
 40. Bradford Benson (University of Chicago)
