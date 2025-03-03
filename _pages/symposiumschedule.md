@@ -11,7 +11,7 @@ social: false
 #### Schedule
 
 ##### Tuesday
-- **8:00-9:00am**: Coffee
+- **8:00-9:00am**: Coffee + Continental Breakfast
 - **9:00-9:25am**: Ava Polzin (Chicago) for the SOC
 - **9:25-9:50am**: Shany Danieli (Tel Aviv) - "Dwarf Galaxies Beyond the Local Group"
 	<details>
