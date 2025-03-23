@@ -134,67 +134,67 @@ List of attendees -- remote participants' names are italicized:
 116. *Jordan Zambrano (Yachay Tech University)*
 117. Joseph Guzman (Chicago Astronomer)
 118. Josephine Chishala (Botswana International University of Science and Technology)
-119. Julie Crowell (University of Chicago)
-120. *Katherine (Katie) Kudla (University of California, Santa Barbara)*
-121. *Katherine Myers (York University)*
-122. Katherine Whitaker (University of Massachusetts Amherst)
-123. *Katie Auchettl (University of Melbourne)*
-124. Katie Bailey (University of Chicago)
-125. Katie Breivik (Carnegie Mellon University)
-126. Kelly Holley-Bockelmann (Vanderbilt University)
-127. Keerthi Kunnumkai (Carnegie Mellon University)
-128. *Kendall Swan (University of Washington)*
-129. Kim-Vy Tran (Harvard-Smithsonian Center for Astrophysics)
-130. *Kira Lund (Lund University)*
-131. *Kristen McQuinn (STScI/Rutgers University)*
-132. Kristin Liu (Washington University in St. Louis)
-133. Kyle Dawson (University of Utah)
-134. Lamiya Mowla (Wellesley College)
-135. Laura Newburgh (Yale University)
-136. Laura Trouille (Adler Planetarium)
-137. Leah Jenks (University of Chicago)
-138. *Lee Whitaker (University College Cork)*
-139. Lilly Joseph (Benedictine University)
-140. *Lindsay House (University of Texas, Austin)*
-141. Lindsey Bleem (Argonne National Laboratory/KICP, University of Chicago)
-142. *Link Boudreaux (Northern Arizona University)*
-143. *Lisa Warshauer (University of Chicago)*
-144. *Lou Baya Ould Rouis (Boston University)*
-145. *Madeline Howell (Ohio State University)*
-146. Madison Brady (University of Chicago)
-147. Maggie Verrico (University of Illinois Urbana-Champaign)
-148. *Maia Williams (Penn State University)*
-149. Malena Rice (Yale University)
-150. Mansha Nigam (University of Chicago)
-151. *Maria Mutz (University of Arizona)*
-152. *Marina Orio (University of Wisconsin/INAF-Padova)*
-153. *Marko Pekkola (Tähdet ja avaruus)*
-154. Mary Iskakova (Washington University in St. Louis)
-155. Mason McCormack (University of Chicago)
-156. Maya Atassi (University of Chicago)
-157. Maya Fishbach (University of Toronto)
-158. *Meghana Pannikkote (University of Rome Tor Vergata)*
-159. Melanie Archipley (University of Chicago)
-160. *Mi Dai (University of Pittsburgh)*
-161. *Michael Brown (Monash University)*
-162. Michelle Marrero-Garcia (University of Wisconsin-Madison)
-163. Michelle Somogyi (University of Chicago)
-164. *Micah Oeur (University of California, Merced)*
-165. Mike Gladders (University of Chicago)
-166. Mike Zevin (Adler Planetarium)
-167. Mikel Charles (Ohio State University)
-168. *Misty Bentz (Georgia State University)*
-169. Molly Beth Jourdan (Kenwood Academy)
-170. Molly Wolfson (Ohio State University)
-171. *Monica Rizzo (Rearc)*
-172. Namrata Roy (Johns Hopkins University)
-173. *Natalie Han-Grassman (Arizona State University)*
-174. Natalie Orrantia (University of Chicago)
-175. Nathaniel Alden (University of Chicago)
-176. *Neev Shah (University of Arizona)*
-177. *Neha Dushyantha Kumar (Penn State University)*
-178. *Nicole Flors (Northwestern University)*
-179. Nicole Ford (McGill University)
+119. Josh Frieman (University of Chicago)
+120. Julie Crowell (University of Chicago)
+121. *Katherine (Katie) Kudla (University of California, Santa Barbara)*
+122. *Katherine Myers (York University)*
+123. Katherine Whitaker (University of Massachusetts Amherst)
+124. *Katie Auchettl (University of Melbourne)*
+125. Katie Bailey (University of Chicago)
+126. Katie Breivik (Carnegie Mellon University)
+127. Kelly Holley-Bockelmann (Vanderbilt University)
+128. Keerthi Kunnumkai (Carnegie Mellon University)
+129. *Kendall Swan (University of Washington)*
+130. Kim-Vy Tran (Harvard-Smithsonian Center for Astrophysics)
+131. *Kira Lund (Lund University)*
+132. *Kristen McQuinn (STScI/Rutgers University)*
+133. Kristin Liu (Washington University in St. Louis)
+134. Kyle Dawson (University of Utah)
+135. Lamiya Mowla (Wellesley College)
+136. Laura Newburgh (Yale University)
+137. Laura Trouille (Adler Planetarium)
+138. Leah Jenks (University of Chicago)
+139. *Lee Whitaker (University College Cork)*
+140. Lilly Joseph (Benedictine University)
+141. *Lindsay House (University of Texas, Austin)*
+142. Lindsey Bleem (Argonne National Laboratory/KICP, University of Chicago)
+143. *Link Boudreaux (Northern Arizona University)*
+144. *Lisa Warshauer (University of Chicago)*
+145. *Lou Baya Ould Rouis (Boston University)*
+146. *Madeline Howell (Ohio State University)*
+147. Madison Brady (University of Chicago)
+148. Maggie Verrico (University of Illinois Urbana-Champaign)
+149. *Maia Williams (Penn State University)*
+150. Malena Rice (Yale University)
+151. Mansha Nigam (University of Chicago)
+152. *Maria Mutz (University of Arizona)*
+153. *Marina Orio (University of Wisconsin/INAF-Padova)*
+154. *Marko Pekkola (Tähdet ja avaruus)*
+155. Mary Iskakova (Washington University in St. Louis)
+156. Mason McCormack (University of Chicago)
+157. Maya Atassi (University of Chicago)
+158. Maya Fishbach (University of Toronto)
+159. *Meghana Pannikkote (University of Rome Tor Vergata)*
+160. Melanie Archipley (University of Chicago)
+161. *Mi Dai (University of Pittsburgh)*
+162. *Michael Brown (Monash University)*
+163. Michelle Marrero-Garcia (University of Wisconsin-Madison)
+164. Michelle Somogyi (University of Chicago)
+165. *Micah Oeur (University of California, Merced)*
+166. Mike Gladders (University of Chicago)
+167. Mike Zevin (Adler Planetarium)
+168. Mikel Charles (Ohio State University)
+169. *Misty Bentz (Georgia State University)*
+170. Molly Beth Jourdan (Kenwood Academy)
+171. Molly Wolfson (Ohio State University)
+172. *Monica Rizzo (Rearc)*
+173. Namrata Roy (Johns Hopkins University)
+174. *Natalie Han-Grassman (Arizona State University)*
+175. Natalie Orrantia (University of Chicago)
+176. Nathaniel Alden (University of Chicago)
+177. *Neev Shah (University of Arizona)*
+178. *Neha Dushyantha Kumar (Penn State University)*
+179. *Nicole Flors (Northwestern University)*
 180. *Nicole Gugliucci (Saint Anselm College)*
 181. *Nikki Nielsen (University of Oklahoma)*
 182. Niranjan Chandra Roy (University of Connecticut)
