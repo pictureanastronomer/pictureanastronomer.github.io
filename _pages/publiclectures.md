@@ -19,10 +19,10 @@ These lectures are intended for a general audience. Most events will be held at 
 *Note that separate registration is required for each talk.*
 
 #### Schedule
-- Dara Norman -- February 3, 2025 -- [register here](https://forms.gle/FuAxS2zSCpuX4Seb6){:target="_blank"}
-- Katie Mack -- February 7, 2025 -- [register here](https://forms.gle/4KhPRXvUTpyvM6Gm9){:target="_blank"}
-- Dame Jocelyn Bell Burnell -- February 19, 2025 -- registration for [virtual attendance](https://forms.gle/ez8ajBBiGjummteL6){:target="_blank"}/[in-person attendance](https://www.adlerplanetarium.org/event/jocelyn-bell-burnell-lecture/){:target="_blank"} \[sold out!\]
-- Anna Frebel -- February 25, 2025 -- [register here](https://forms.gle/1t9N3GGL31TEDykL6){:target="_blank"}
+- Dara Norman -- February 3, 2025 -- ~[register here](https://forms.gle/FuAxS2zSCpuX4Seb6){:target="_blank"}~/**[recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14636922-5ce0-4897-9d8a-b2b3013c026b){:target="_blank"}**
+- Katie Mack -- February 7, 2025 -- ~[register here](https://forms.gle/4KhPRXvUTpyvM6Gm9){:target="_blank"}~/**[recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe917f9a-29d5-4381-8edb-b2b3013c6997){:target="_blank"}**
+- Dame Jocelyn Bell Burnell -- February 19, 2025 -- ~registration for [virtual attendance](https://forms.gle/ez8ajBBiGjummteL6){:target="_blank"}/[in-person attendance](https://www.adlerplanetarium.org/event/jocelyn-bell-burnell-lecture/){:target="_blank"} \[sold out!\]~/**[recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42977e3a-c02c-4c57-90cd-b2b3013c8800){:target="_blank"}**
+- Anna Frebel -- February 25, 2025 -- ~[register here](https://forms.gle/1t9N3GGL31TEDykL6){:target="_blank"}~/**[recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c40717a-4b3a-4a56-bfda-b2b3013ca8a4){:target="_blank"}**
 
 See below for more information about each of the invited speakers and their talks.
 

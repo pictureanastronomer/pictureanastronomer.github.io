@@ -12,11 +12,13 @@ social: false
 
 **January 30, 2025 at the University of Chicago William Eckhardt Research Center (5640 S. Ellis Ave., Chicago, IL) and online**
 
+**Recording available [here](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8fb0b8b-2ea4-4a12-8a5c-b2b3013b19eb){:target="_blank"}**
+
 To set the tone for the rest of the Picture an Astronomer programming and highlight the astronomical contributions of local women, we are hosting a kick-off event, featuring talks from female faculty in the Department of Astronomy & Astrophysics. In-person attendees will receive a hard copy of the SIRIUS B pedagogical text, [Astronomy as a Field: A Guide for Aspiring Astrophysicists](https://arxiv.org/abs/2312.04041){:target="_blank"}, which was created by a University of Chicago PhD candidate and features contributions from a number of Chicago astrophysicists.
 
 The talks will be followed by a panel discussion. Other department members will also be available to answer questions about astronomy in general, and there will be ample opportunity to engage with more junior women in the department (PhD students and postdoctoral fellows) to learn more about their work.
 
-*Register [here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"} for in-person or virtual attendance.*
+*~Register [here](https://docs.google.com/forms/d/1aoZqLiu0woXlWP5EOr7J5kd93tlrJpk1bMbaSU4y6Jk/viewform?edit_requested=true){:target="_blank"} for in-person or virtual attendance.~*
 
 Schedule:
 - 6pm: Doors open (opportunity to mingle and engage casually with astronomers before the talks)
