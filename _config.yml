@@ -182,6 +182,9 @@ collections:
   symposiumspeakers:
     output: true
     permalink: /symposiumspeakers/:path/
+  recommendations:
+    output: true
+    permalink: /recommendations/:path/
 
 announcements:
   enabled: true
