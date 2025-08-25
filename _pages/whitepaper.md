@@ -11,7 +11,7 @@ social: false
 
 ***Coming soon!***
 
-In March 2025, when more than 200 astronomers came together in a hybrid symposium focused on the state of the field for female scientists, symposium participants engaged in solution-oriented discussions aimed at ameliorating the effects that drive the disproportionate attrition of women at each career stage (sometimes colloquially referred to as the "leaky pipeline"). These discussions resulted in a white paper (available on arXiv [here](){:target="_blank"}), which provides community-level recommendations and best practices for the retention of talent in astrophysics.  
+In March 2025, when more than 200 astronomers came together in a hybrid symposium focused on the state of the field for female scientists, symposium participants engaged in solution-oriented discussions aimed at ameliorating the effects that drive the disproportionate attrition of women at each career stage (sometimes colloquially referred to as the "leaky pipeline"). These discussions resulted in a white paper (available on arXiv soon), which provides community-level recommendations and best practices for the retention of talent in astrophysics.  
 
 See below for summarized recommendations and "cheatsheets" that can be readily shared alongside the Picture an Astronomer white paper.
 
