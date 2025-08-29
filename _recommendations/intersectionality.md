@@ -3,7 +3,7 @@ layout: page
 title: Intersectionality
 img: assets/img/illustrations/Cloud_spatter.png
 importance: 6
-category: 
+category: Recommendations
 ---
 
 <div class="row">
