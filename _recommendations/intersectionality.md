@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Intersectionality
-img: assets/img/illustrations/Intersectionality.png
+img: assets/img/illustrations/Cloud_spatter.png
 importance: 6
 category: 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/illustrations/Intersectionality.png" title="Intersectionality by Julie Malewicz" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/illustrations/Cloud_spatter.png" title="Cloud by Julie Malewicz" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <!-- <div class="caption">
