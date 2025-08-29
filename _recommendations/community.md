@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Community
-img: assets/img/illustrations/Tower_Spatter.png
+img: assets/img/illustrations/Tower_spatter.png
 importance: 7
 category: Recommendations
 ---
