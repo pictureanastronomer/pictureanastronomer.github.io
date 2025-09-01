@@ -128,7 +128,7 @@ List of attendees -- remote participants' names are italicized:
 110. Joann Jones (University of Chicago)
 111. *Jodie Kiyokawa (University of Wisconsin-Madison)*
 112. *Johannes U. Lange (American University)*
-113. John Carlstron (University of Chicago)
+113. John Carlstrom (University of Chicago)
 114. John Cruz-Barcenas
 115. *Jonathan Jackson (Northern Arizona University)*
 116. *Jordan Zambrano (Yachay Tech University)*
