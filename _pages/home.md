@@ -30,7 +30,7 @@ The Picture an Astronomer white paper, which came out of our March 2025 symposiu
 #### Media:
 - [astrobites write-up of the Picture an Astronomer Symposium](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}
 - The Picture an Astronomer [white paper](https://womeninastronomy.blogspot.com/2026/01/crosspost-picture-astronomer-best.html){:target="_blank"} and [foreword](https://womeninastronomy.blogspot.com/2026/01/meg-urrys-full-remarks-from-cswa1400.html){:target="_blank"} were highlighted by the AAS CSWA blog
-- [StarXiv ep. 28 briefly shouts out the Picture an Astronomer white paper](https://starxiv.com/2026/01/12/episode-28-fading-stars-digesting-planets-and-dark-matter-conundrums/){:target="_blank"}
+- [StarXiv briefly shouts out the Picture an Astronomer white paper](https://starxiv.com/2026/01/12/episode-28-fading-stars-digesting-planets-and-dark-matter-conundrums/){:target="_blank"}
 
 
 **Any questions? Contact Ava Polzin (apolzin [at] uchicago.edu) and/or Galen Tsongas (gtsongas [at] uchicago.edu).**
