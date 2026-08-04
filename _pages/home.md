@@ -9,7 +9,14 @@ Thanks to a generous grant from the University of Chicago Women’s Board, we ar
 
 The Picture an Astronomer white paper, which came out of our March 2025 symposium, is now out on [arXiv](https://arxiv.org/abs/2512.24465){:target="_blank"}, replete with evidence-backed recommendations for retaining talent in astrophysics.
 
+#### Media:
+- [astrobites write-up of the Picture an Astronomer Symposium](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}
+- The Picture an Astronomer [white paper](https://womeninastronomy.blogspot.com/2026/01/crosspost-picture-astronomer-best.html){:target="_blank"} and [foreword](https://womeninastronomy.blogspot.com/2026/01/meg-urrys-full-remarks-from-cswa1400.html){:target="_blank"} were highlighted by the AAS CSWA blog
+- [StarXiv briefly shouts out the Picture an Astronomer white paper](https://starxiv.com/2026/01/12/episode-28-fading-stars-digesting-planets-and-dark-matter-conundrums/){:target="_blank"}
+
 <!-- Details of our events, including registration and attendance information and recordings (post-event) are available here. We will be updating this website regularly in the run-up to these events, so do check back for more. -->
+
+***
 
 #### Scientific Organizing Committee
 - Ava Polzin
@@ -26,11 +33,6 @@ The Picture an Astronomer white paper, which came out of our March 2025 symposiu
 - Scott Mackey
 - Francisco Rodriguez Montero
 - Chin Yi Tan
-
-#### Media:
-- [astrobites write-up of the Picture an Astronomer Symposium](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}
-- The Picture an Astronomer [white paper](https://womeninastronomy.blogspot.com/2026/01/crosspost-picture-astronomer-best.html){:target="_blank"} and [foreword](https://womeninastronomy.blogspot.com/2026/01/meg-urrys-full-remarks-from-cswa1400.html){:target="_blank"} were highlighted by the AAS CSWA blog
-- [StarXiv briefly shouts out the Picture an Astronomer white paper](https://starxiv.com/2026/01/12/episode-28-fading-stars-digesting-planets-and-dark-matter-conundrums/){:target="_blank"}
 
 
 **Any questions? Contact Ava Polzin (apolzin [at] uchicago.edu) and/or Galen Tsongas (gtsongas [at] uchicago.edu).**
