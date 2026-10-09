@@ -3,7 +3,7 @@ layout: page
 title: Kick-off
 permalink: /kickoff/
 years: [2024]
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Invited Speakers, Other Presenters]
 horizontal: false
