@@ -2,7 +2,7 @@
 layout: page
 title: White Paper
 permalink: /whitepaper/
-nav: false
+nav: true
 nav_order: 4
 display_categories: [Recommendations]
 horizontal: false

@@ -5,7 +5,7 @@ permalink: /
 subtitle: University of Chicago Women's Board | Kavli Institute for Cosmological Physics
 ---
 
-Thanks to a generous grant from the University of Chicago Women’s Board, we are able to run a one-time series of events aimed at increasing representation for, and retention of, women in astrophysics. In partnership with the Kavli Institute for Cosmological Physics at the University of Chicago, programming ran from January - March 2025, with opportunities to participate/attend both in person and virtually, and recordings of each public talk are available on their respective pages to extend reach.
+Thanks to a generous grant from the University of Chicago Women’s Board, we were able to run a one-time series of events aimed at increasing representation for, and retention of, women in astrophysics. In partnership with the Kavli Institute for Cosmological Physics at the University of Chicago, programming ran from January - March 2025, with opportunities to participate/attend both in person and virtually, and recordings of each public talk are available on their respective pages to extend reach.
 
 The Picture an Astronomer white paper, which came out of our March 2025 symposium, is now out on [arXiv](https://arxiv.org/abs/2512.24465){:target="_blank"}, replete with evidence-backed recommendations for retaining talent in astrophysics.
 

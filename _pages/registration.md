@@ -3,7 +3,7 @@ layout: page
 title: Registration
 permalink: /registration/
 # description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 5
 horizontal: false
 social: false

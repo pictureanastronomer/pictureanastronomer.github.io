@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/
 # description: A growing collection of your cool projects.
 years: [2024]
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Invited Speakers]
 horizontal: false
