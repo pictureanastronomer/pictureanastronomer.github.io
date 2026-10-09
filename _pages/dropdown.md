@@ -25,6 +25,4 @@ children:
       permalink: /symposiumparticipants/
     - title: Schedule + Logistics
       permalink: /symposiumschedule/
-    - title: White Paper
-      permalink: /whitepaper/
 ---
